@@ -1,0 +1,32 @@
+body{
+	background-color: #f0f8ff;
+}
+.container {
+  margin: 30px 0px 0px 0px;
+  width: 1000px;
+}
+.wrapper {
+  margin: 50px 0px 0px 0px;
+}
+.cart-popup {
+  width: 330px !important;
+  max-width: 500px !important;
+  min-height: 100px;
+}
+.cart-popup .item {
+  padding: 10px 5px 10px 0px !important;
+}
+.image-wine{
+	padding: 0px 90px 0px 90px !important;
+}
+.image-wine-incart{
+	padding: 0px 0px 0px 0px;
+	width: 10px;
+}
+.image-country{
+	width: 15px;
+	margin: 0px 0px 2px 10px;
+}
+.produce{
+	color: grey;
+}
